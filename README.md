@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://raw.githubusercontent.com/DanielObara/NLW-1.0/d7e57f5e53d563f28cefeb078786c6e522fde40a/.github/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
