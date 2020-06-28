@@ -1,4 +1,4 @@
-﻿<h1 align="center">
+<h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://raw.githubusercontent.com/DanielObara/NLW-1.0/d7e57f5e53d563f28cefeb078786c6e522fde40a/.github/logo.svg" width="250px" />
 </h1>
 
@@ -60,9 +60,11 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+<p align="center">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+</p>
 
-## :information_source: How To Use
+## :information_source: How-To-Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] installed on your computer.
 
