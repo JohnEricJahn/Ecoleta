@@ -27,7 +27,7 @@
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#:page_with_curl-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
+  <a href="#page_with_curl-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
 </p>
 
 ## :information_source: What's Next Level Week?
