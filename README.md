@@ -30,6 +30,8 @@
   <a href="#page_with_curl-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
 </p>
 
+<br>
+
 ## :information_source: What's Next Level Week?
 
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
