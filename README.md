@@ -98,7 +98,7 @@ This project was developed with the following technologies:
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="ecoleta.png" width="100%">
 </p>
 
 ## :information_source: How-To-Use
