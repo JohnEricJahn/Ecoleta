@@ -27,6 +27,7 @@
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#:page_with_curl-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
 </p>
 
 ## :information_source: What's Next Level Week?
@@ -101,7 +102,7 @@ This project was developed with the following technologies:
   <img alt="Ecoleta" src="ecoleta.png" width="100%">
 </p>
 
-## :information_source: How-To-Use
+## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] installed on your computer.
 
@@ -170,29 +171,9 @@ $ npm start
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 ```
-## **:page_with_curl: LICENÇA**
+## :page_with_curl: License
 
-Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
-
-<!-- Website Links -->
-
-[rocketseat_site]: https://rocketseat.com.br/
-
-<!-- Badges -->
-
-[github_issues_badge]: https://img.shields.io/github/issues/x0n4d0/ecoleta?color=green
-
-[repository_license_badge]: https://img.shields.io/github/license/x0n4d0/ecoleta
-
-[node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
-
-[npm_version_badge]: https://img.shields.io/badge/npm-6.14.4-red
-
-[web_react_badge]: https://img.shields.io/badge/web-react-blue
-
-[mobile_react-native_badge]: https://img.shields.io/badge/mobile-react%20native-blueviolet
-
-[server_nodejs_badge]: https://img.shields.io/badge/server-nodejs-important
+This repository is licensed by MIT LICENSE.
 
 <!-- Techs -->
 
